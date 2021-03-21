@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "name": "show-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhypower1997/show-book.git",
+  "license": "MIT"
+}
